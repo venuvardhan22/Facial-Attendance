@@ -1,0 +1,14 @@
+flask
+flask_cors
+deepface
+numpy
+sklearn
+face_recognition
+os
+pickle
+datetime
+opencv-python
+base64
+pymongo
+io
+matplotlib
