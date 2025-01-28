@@ -16,7 +16,7 @@ This project is a facial attendance system that uses React with TypeScript for t
 1. **Install Vite** (if you don’t have it installed already):
 
    ```bash
-   npm install vite@latest project_name
+   npm install
    ```
 
 2. **Install the required libraries**:
